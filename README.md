@@ -107,4 +107,4 @@ KVM (Kernel-based Virtual Machine) — технология виртуализа
 - **Tanenbaum, A. S.** Современные операционные системы \[Текст\] / А. С. Таненбаум. – М.: Питер, 2021. – 1120 с. (дата обращения: 14.11.2025).
 - **Silberschatz, A., Galvin, P., Gagne, G.** Operating System Concepts \[Текст\]. – 10th ed. – Hoboken: Wiley, 2018. – 976 p. (дата обращения: 14.11.2025).
 
-**Реферат размещен по ссылке:** [**https://github.com/AIS-436/Giniiatov_Anvar_Ilnurovich_29**](https://github.com/AIS-436/Giniiatov_Anvar_Ilnurovich_29)
+**Реферат размещен по ссылке:** [**https://github.com/AIS-436/Makhiyanov_Emil_Azamatovich_1**](https://github.com/AIS-436/Makhiyanov_Emil_Azamatovich_1)
